@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza
 - 👀 I’m interested in computer.
-- 🌱 I’m currently learning React Native and Kotlin
+- 🌱 I’m currently learning Asp.net
 - 📫 How to reach me hamzaince10@gmail.com
 
 <!---
