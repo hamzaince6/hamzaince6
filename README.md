@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Efrun Evdi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Hamza İnce</h1>
 <h3 align="center">I’m currently learning C# ASP.NET.</h3>
 
 <br>
@@ -52,7 +52,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/hamzaince6" alt="hamzaince6" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaince6&&row=1&theme=radical" alt="hamzaince6" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -78,7 +78,7 @@
 
 ### 📊 Contribution Stats
 
-<img alt="Hamza Activity Graph" src="https://github.com/hamzaince6" />
+<img alt="Hamza Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamzaince6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <br>
 
