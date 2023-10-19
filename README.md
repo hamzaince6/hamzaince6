@@ -15,12 +15,13 @@
 
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
-- [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=12)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hamzaince6&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
  
 <br>
 
 <h3 align="left">Connect with me:</h3>
-
 
 <br>
 
