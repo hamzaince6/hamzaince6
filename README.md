@@ -16,9 +16,9 @@
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=hamzaince6&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=hamzaince6&label=Profile%20Views&color=0&pretty=false" />
 </a>
- 
+
 <br>
 
 <br>
