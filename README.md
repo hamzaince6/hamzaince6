@@ -57,35 +57,39 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaince6&&row=1&theme=radical" alt="hamzaince6" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hamzaince6&row=1&theme=radical" alt="hamzaince6" />
+  </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br>
   
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=hamzaince6&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
- <hr>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaince6&amp;theme=radical&amp;hide_border=false" alt="">
-   </td>
-  <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hamzaince6&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
-  </td>
- </tr>
+      <img src="https://github-readme-stats.vercel.app/api?username=hamzaince6&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Hamza's GitHub Stats">
+      <hr>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaince6&theme=radical&hide_border=false" alt="Hamza's Streak Stats">
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hamzaince6&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages">
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 ### 📊 Contribution Stats
-
-<img alt="Hamza Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamzaince6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Hamza Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamzaince6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Hamza's Activity Graph" />
 
 <br>
+
+![Stars](https://img.shields.io/github/stars/hamzaince6?style=social)
+![Forks](https://img.shields.io/github/forks/hamzaince6?style=social)
+
+### 🎯 Hedefler
+- [ ] Vue.js projeleri geliştirmek
+- [ ] Daha fazla katkıda bulunmak açık kaynak projelere
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
