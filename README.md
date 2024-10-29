@@ -84,6 +84,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hamzaince6/hamzaince6/output/snake.svg" alt="Snake animation" />
+</div>
+
 ![Stars](https://img.shields.io/github/stars/hamzaince6?style=social)
 ![Forks](https://img.shields.io/github/forks/hamzaince6?style=social)
 
